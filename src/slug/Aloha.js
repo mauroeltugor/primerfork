@@ -14,7 +14,7 @@ const Aloha = () => (
           <h1 className="display-2">
             <strong>
               <a href="/" className="text-danger">
-                Laravel Apps
+                se la llevo, su boxxer se la llevo
               </a>
             </strong>
           </h1>
