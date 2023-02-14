@@ -20,9 +20,9 @@ const Aloha = () => (
             </strong>
           </h1>
           <h4>
-            APLICA TODOS LOS CAMBIOS QUE QUIERAS
+            Cashier application for shops
 
-            DEMO GRATIS APP BLA.
+            and restaurants and cafes, with laravel php artisan.
           </h4>
           <p>
             Estefania Arenas tengo mucho que haccer hoy en la noche
