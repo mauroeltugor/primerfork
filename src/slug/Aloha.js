@@ -14,13 +14,12 @@ const Aloha = () => (
           <h1 className="display-2">
             <strong>
               <a href="/" className="text-danger">
-                se la llevo, su boxxer se la llevo
+              BOOTCAMP app
               </a>
             </strong>
           </h1>
           <h3>
-            Aplikasi kasir toko shop store dan restoran cafe rumah makan dengan
-            laravel php artisan.
+            DEMO GRATIS APP BLA
           </h3>
           <p>
             Mudahkan segala urursan dengan laravel apps sebuah technology modern
