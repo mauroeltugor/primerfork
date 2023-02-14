@@ -19,11 +19,11 @@ const Aloha = () => (
               </a>
             </strong>
           </h1>
-          <h3>
+          <h4>
             Cashier application for shops
 
-            and restaurants and cafes, with laravel php artisan
-          </h3>
+            and restaurants and cafes, with laravel php artisan.
+          </h4>
           <p>
             Estefania Arenas tengo mucho que haccer hoy en la noche
 
