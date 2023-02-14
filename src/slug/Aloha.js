@@ -19,11 +19,11 @@ const Aloha = () => (
               </a>
             </strong>
           </h1>
-          <h3>
+          <h4>
             APLICA TODOS LOS CAMBIOS QUE QUIERAS
 
-            DEMO GRATIS APP BLA
-          </h3>
+            DEMO GRATIS APP BLA.
+          </h4>
           <p>
             Estefania Arenas tengo mucho que haccer hoy en la noche
 
