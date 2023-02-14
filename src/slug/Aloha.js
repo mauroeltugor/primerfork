@@ -14,13 +14,21 @@ const Aloha = () => (
           <h1 className="display-2">
             <strong>
               <a href="/" className="text-danger">
+<<<<<<< HEAD
                 Laravel Aplication
+=======
+              BOOTCAMP app
+>>>>>>> 09cfd971316739e0482967e6526041dfa055425a
               </a>
             </strong>
           </h1>
           <h3>
+<<<<<<< HEAD
             APLICA TODOS LOS CAMBIOS QUE QUIERAS
 
+=======
+            DEMO GRATIS APP BLA
+>>>>>>> 09cfd971316739e0482967e6526041dfa055425a
           </h3>
           <p>
             Estefania Arenas tengo mucho que haccer hoy en la noche
